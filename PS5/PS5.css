@@ -24,7 +24,7 @@
 .ds4 .trigger {
     width: 117px;
     height: 107;
-    background: url(Trigger.png);
+    background: url(TriggerPressed.png);
 	opacity: 0;
 }
 
@@ -231,3 +231,4 @@
 }
 
 /*END PS5 Controller Styling*/
+
